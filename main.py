@@ -23,7 +23,7 @@ def main_game():
     size = 1600, 900
     screen = pygame.display.set_mode(size)
     pygame.display.set_caption('Dinosavr')
-    #
+
     pygame.font.init()
     # Переменные для игрока
     jumps = 0
